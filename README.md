@@ -1,8 +1,8 @@
 # JOGO-2048
 
 Colaboradores:
-Alexandre Rodrigues RA: 17156365
-Michel Fugiyama RA: 17231168
+- Alexandre Rodrigues RA: 17156365
+- Michel Fugiyama RA: 17231168
 
 Descrição do projeto:
   - Jogo 2048
